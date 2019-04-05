@@ -4,8 +4,6 @@ Tags: Content Injection injection
 Requires at least: 3.6
 Tested up to: 5.1.1
 Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Automatically insert content after paragraphs of your posts, pages, and custom post types.
 
