@@ -17,33 +17,4 @@ Automatically insert content after paragraphs of your posts, pages, and custom p
 
 Automatically insert content after paragraphs of your posts, pages, and custom post types.
 
-Post Signature makes monetizing your blog easy.
 
-== Installation ==
-
-Automatically insert content after paragraphs of your posts, pages, and custom post types.
-
-== Screenshots ==
-
-1. Screenshot1
-2. Screenshot2
-
-== Frequently Asked Questions ==
-
-= FAQ1? =
-
-Faq
-
-== Notes ==
-
-Post Signature is an injection plugin
-
-
-== Changelog ==
-= 1.0.0 =
-* 1.0.0
-
-= 1.3
-* First release
-
-== Privacy Policy ==
