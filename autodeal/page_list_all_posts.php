@@ -14,7 +14,7 @@ get_header(); ?>
 	    if($sidebar_layout == 'left'){ ?>
 	        <div class="row">
 	          	<div class="col-md-4 col-sm-4" id="theme-sidebar"><?php dynamic_sidebar('sidebar-1');?></div>
-	          	<div class="col-md-8 col-sm-8">
+	          	<div class="col-md-8 col-sm-8" style="border-right: 1px dotted #333; padding-right: 25px;">
 				  <?php
 					$wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish', 'posts_per_page'=>-1)); ?>
 					<?php if ( $wpb_all_query->have_posts() ) : ?>
@@ -35,7 +35,7 @@ get_header(); ?>
 	        <div class="clearfix"></div>
 	    <?php }else if($sidebar_layout == 'right'){ ?>
 	        <div class="row">
-	          	<div class="col-md-8 col-sm-8">
+	          	<div class="col-md-8 col-sm-8" style="border-right: 1px dotted #333; padding-right: 25px;">
 				  <?php
 					$wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish', 'posts_per_page'=>-1)); ?>
 					<?php if ( $wpb_all_query->have_posts() ) : ?>

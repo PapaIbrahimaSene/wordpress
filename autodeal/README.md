@@ -14,7 +14,7 @@ Post Signature :  Pre and Post Content Insertion plugin
 ## AutoDeal Theme
 - Welcome page template (Bootstrap 2 Column : about-us.php
 - Welcome page template (Bootstrap 2 Column) : welcome.php
-- Welcome page template (Bootstrap 2 Column) : page_list_all_posts.php
+- Post listings page template (Bootstrap 2 Column) : page_list_all_posts.php (make sure the page is not selected in Admin > Settings > Reading > Post page)
 
 Select the desired template in Page Attributes > Template
 
