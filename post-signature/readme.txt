@@ -1,6 +1,6 @@
 === Post Signature ===
 Author: Papa Ibrahima Sene
-Tags: Content Injection injection
+Tags: Content Injection Plugin
 Requires at least: 3.6
 Tested up to: 5.1.1
 Stable tag: 1.0.0
