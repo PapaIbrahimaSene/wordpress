@@ -1,5 +1,5 @@
 === Post Signature ===
-Contributors: insertpostsignature
+Author: Papa Ibrahima Sene
 Tags: Content Injection injection
 Requires at least: 3.6
 Tested up to: 5.1.1
