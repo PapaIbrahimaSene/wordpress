@@ -11,8 +11,6 @@ Automatically insert content after paragraphs of your posts, pages, and custom p
 
 == Description ==
 
-= Ads Plugin With Auto Ad Injection =
-
 Automatically insert content after paragraphs of your posts, pages, and custom post types.
 
 = Post Signature Features =
